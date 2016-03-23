@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 def main():
     # Open and read input file
     # FIX 1 - Make this skip over reading in the header row of text
-    data = np.loadtxt(fname='Coutand2014_AFT_ages.txt', delimiter=',')
+    data = np.loadtxt(fname='Coutand2014-AFT-ages.txt', delimiter=',')
 
     # Fill in arrays using slices of data
     # FIX 2 - Replace the zeros with some part of the data array
