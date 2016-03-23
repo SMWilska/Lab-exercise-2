@@ -7,4 +7,4 @@ For this exercise, you are given a [broken Python script](read_and_plot_data.py)
 1. Read the data file and split the data into separate arrays for each variable.
 2. Calculate the goodness of fit between the measured and predicted ages in the data file. The goodness of fit equation you should use is
 
-    ![Reduced chi-squared](images/reduced-chi-squared.png)
+    ![Reduced chi-squared](Images/reduced-chi-squared.png)
