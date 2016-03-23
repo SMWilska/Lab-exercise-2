@@ -32,6 +32,9 @@ For this exercise, you will add a conditional statement to your modified code fr
 
 # Answers
 ## Problem 1
+
+**TOO HARD**
+
 This is some text. You can use *italics* or **bold** text easily. You may want to read a bit more about [formatting text in Github-flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/). You can see an example of how to display an image below.
 
 ![Text shown if image does not load](Images/sine.png)
