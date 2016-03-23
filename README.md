@@ -28,3 +28,11 @@ For this exercise, you will add a conditional statement to your modified code fr
 4. Write a caption for your plot describing it as if it were in a scientific journal. You should clearly mention what is plotted, the symbol types/colors and any other particular items in the plot such as changes related to your conditional statement.
 
 **For this problem, save a modified copy of the code in your Github repository, and edit the `README.md` document to display a copy of your plot with the requested figure caption clearly describing what was modified in the plot.**
+
+# Answers
+## Problem 1
+This is some text. You can use *italics* or **bold** text easily. You may want to read a bit more about [formatting text in Github-flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/). You can see an example of how to display an image below.
+
+![Text shown if image does not load](Images/sine.png)
+
+Here is a bit more text beneath the image. Have fun!
