@@ -10,6 +10,7 @@ For this exercise, you are given a [broken Python script](read-and-plot-data.py)
     ![Reduced chi-squared](Images/reduced-chi-squared.png)
 
 where *n* is the number of ages, *O* is the measured age, *E* is the predicted age and *σ* is the standard deviation.
+
 3. Produce a plot of the measured ages with their error bars and the predicted ages, both as a function of latitude. Be sure to include axis labels and a title.
 
 In addition to modifying the script, you should submit answers to the following questions:
