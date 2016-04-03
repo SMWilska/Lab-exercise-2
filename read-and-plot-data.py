@@ -26,7 +26,7 @@ def main():
     # Calculate goodness of fit
     # FIX 3 - Make this loop go over all of the ages that were read in
     for age in range(1):
-        # FIX 4 - Make the code calculate the misfit value here
+        # FIX 4 - Make the code calculate the goodness-of-fit value here
         print("This is broken")
 
     # FIX 5 - Make the code plot the predicted and observed ages on the same
